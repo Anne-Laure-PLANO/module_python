@@ -1,16 +1,29 @@
 # module_python
-Ensemble des exercices réalisés dans le cadre de ma formation au Campus Numérique In The Alps 
+Ensemble des exercices réalisés dans le cadre de ma formation au Campus Numérique In The Alps. 
 
+## Objectifs :  
+* Connaître l'écosystème Python
+* Mettre en place un environnement de développement Python
+* Écrire du code Python annoté avec des types
+* Découvrir les tests automatisés avec pytest
+* Utiliser mypy pour la vérification de types
+* Développer une API web avec FastAPI
 
-## Ce que j’ai réalisé pendant ce module :
+## Mes réalisations :
 
---> **Jeu ShiFuMi** : Un premier projet pour me remettre dans le bain de Python après 3 semaines de Java.
+--> **ShiFuMi** : Un premier projet pour me remettre dans le bain de Python après 3 semaines de Java.
 
 --> **Devine_nombre** : Un jeu pour deviner un nombre entre 1 et 100 généré par ordinateur, avec un comptage des tentatives.
 
---> **Traduction des nombres en nombres romains** : Projet basé sur la méthode TDD (Test Driven Development), où l’on écrit d’abord les tests, puis on développe progressivement la solution pour passer ces tests.
+--> **Roman_Numeral_Kata** : Application de traduction des nombres en nombres romains. Projet basé sur la méthode TDD (Test Driven Development), où l’on écrit d’abord les tests, puis on développe progressivement la solution pour passer ces tests.  
 
---> **ToDo List avec une API REST** : Utilisation de FastAPI et Pydantic pour développer une API qui gère les données de la ToDo List, accessibles depuis le navigateur grâce à HTTPX, et rendues modifiables sans base de données grâce à Uvicorn qui héberge l'API.
+--> **Campus_project** : création de diverses Classes / Interfaces dans un projet imitant les attentes de ma formation au Campus Numérique.
+
+--> **exo_typage** : travail du typage des variables, sur un projet donné.Vérification du bon résultat avec la dépendance MyPy programmé en Strict.  
+
+--> **tests_ecriture_python** : création d'un petit fichier servant à jauger la différence entre une variable écrite _variable et une écrite __variable.
+
+--> **ToDo List** avec une API REST : Utilisation de FastAPI et Pydantic pour développer une API qui gère les données de la ToDo List, accessibles depuis le navigateur grâce à HTTPX, et rendues modifiables sans base de données grâce à Uvicorn qui héberge l'API.
 
 ## Outils transverses utilisés :
 
